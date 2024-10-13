@@ -90,7 +90,7 @@ dependencies = [
 [[package]]
 name = "ckb-std"
 version = "0.16.0"
-source = "git+https://github.com/nervosnetwork/ckb-std#d74821c9086bf9cb2bff64d184aa19fb4a0117e5"
+source = "git+https://github.com/nervosnetwork/ckb-std?rev=d74821c9#d74821c9086bf9cb2bff64d184aa19fb4a0117e5"
 dependencies = [
  "buddy-alloc",
  "cc",
